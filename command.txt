@@ -1,0 +1,12 @@
+・Git
+//help
+$ git help [Command]
+
+// コミット時点に戻す
+$ git reset --hard
+
+//　あいうえお
+
+
+
+TODO
